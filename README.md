@@ -1,1 +1,2 @@
 # schemes-ios
+LINEのURLスキームです。
