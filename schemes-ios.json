@@ -1,0 +1,19 @@
+{
+    "function.cube.group_event.url": "line://ch/1506931000",
+    "function.cube.jungle_pang.url": "line://ch/1526709289",
+    "function.cube.ladder_shuffle.url": "line://ch/1505962409",
+    "function.cube.square.permission.url": "line://ch/1552858468",
+    "function.cube.translator.url": "line://ch/1506931274",
+    "function.cube.youtube.url": "line://ch/1526709033",
+    "function.giftshop.url": "line://ch/1422257180/#/gift/?utm_source=line_app&utm_medium=plus&utm_campaign=gift",
+    "function.line_at.local_info.url": "line://ch/1360731415",
+    "function.line_at.near_search.url": "line://ch/1360731415/location/",
+    "function.official_account.webapp.url": "line://ch/1427767817/",
+    "function.poll.url": "line://ch/1477715170",
+    "function.profile_plus.url": "line://ch/1470744453/?closeModals=false",
+    "function.reservation.url": "line://ch/1434453306/",
+    "function.schedule.url": "line://ch/1412248049/?route=plus_menu#/event/chat/create",
+    "function.sticker.webapp.url": "line://ch/1359301715/",
+    "function.themeshop.webapp.url": "line://ch/1359301715/themeshop/",
+    "main_tab.newstab.navbar_url": "line://ch/1391620050/menu/tab"
+}
